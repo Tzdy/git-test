@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GCD",
+            "request": "launch",
+            "mainClass": "GCD"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - zhanzhuan",
+            "request": "launch",
+            "mainClass": "zhanzhuan"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorldSwing",
+            "request": "launch",
+            "mainClass": "HelloWorldSwing"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Main"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld"
+        }
+    ]
+}
